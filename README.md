@@ -45,8 +45,8 @@ auto-test-scenario/
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AnisH521/identity_similarity_app.git
-cd identity-similarity
+git https://github.com/AnisH521/auto-test-scenario-app.git
+cd auto-test-scenario-app
 ```
 
 #### 2. Install Dependencies
